@@ -1,6 +1,6 @@
 #A python program to calculate till the nth digits of pi (3.14...), after '3.' (decimal place).
 #This program makes use of the chudnovsky algorithm with binary splitiing, the the GMP and MPFR libraries for the computation.
-#The processes and computations amke use of i7's multi-core processor.
+#The processes and computations making use of multi-core processors.
 
 import gmpy2
 from gmpy2 import mpz, mpfr
